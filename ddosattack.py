@@ -21,7 +21,7 @@ os.system("clear")
 os.system("ddosattack")
 print
 print "github   : https://github.com/saikiran994"
-print "instagram : techsaikiran
+print "instagram : techsaikiran"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
