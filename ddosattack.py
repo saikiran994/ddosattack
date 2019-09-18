@@ -26,15 +26,11 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("Attack Starting")
-print "[                    ] 0% "
+print "[  starting attack  ] 0% "
 time.sleep(5)
-print "[=====               ] 25%"
+print "[ Setting up Attack ] "
 time.sleep(5)
-print "[==========          ] 50%"
-time.sleep(5)
-print "[===============     ] 75%"
-time.sleep(5)
-print "[====================] 100%"
+print "[Almost Done] 100%"
 time.sleep(3)
 sent = 0
 while True:
